@@ -11,6 +11,10 @@ Practice basic SQL concepts: SELECT, GROUP BY, SUM, AVG, ORDER BY, Date Function
 ## ❓ Business Questions & Results
 
 ### Q1: Total sales per Product Category?
+SELECT Product_Category , SUM(Total_Amount) AS Total_Amount
+FROM Sales
+GROUP BY Product_Category
+ORDER BY SUM(Total_Amount) DESC
 | Product_Category | Total_Sales |
 |-----------------|------------|
 | Electronics | 156,905 |
