@@ -1,7 +1,7 @@
 # 🎓 SQL Learning Journey
 
 ## 👩‍💻 About
-I'm Dina, a Data Engineering trainee at ITI Cairo.
+I'm Dina, a Data Engineering trainee at ITI.
 This repository documents my SQL learning journey through hands-on projects,
 where I practice real business questions using actual datasets.
 
